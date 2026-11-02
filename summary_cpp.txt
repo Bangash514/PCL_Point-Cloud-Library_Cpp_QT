@@ -1,0 +1,3 @@
+points: source 3500, target 3500
+nearest-neighbour RMSE before: 0.2476, after: 0.0400
+rotation error: 1.404 deg, translation error: 0.0021
